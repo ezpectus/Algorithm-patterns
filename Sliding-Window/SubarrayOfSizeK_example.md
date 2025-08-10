@@ -1,5 +1,4 @@
 # Max Sum of Subarray of Size K — Sliding Window Pattern
-
 ## Problem Description
 Given an integer array and a positive integer K, find the maximum possible sum of any contiguous subarray of size K.
 
