@@ -1,4 +1,5 @@
 # Max Sum of Subarray of Size K — Sliding Window Pattern
+
 ## Problem Description
 Given an integer array and a positive integer K, find the maximum possible sum of any contiguous subarray of size K.
 
@@ -28,7 +29,7 @@ The Sliding Window technique optimizes this by:
 - This way, we avoid recomputing sums from scratch and reduce the time complexity to O(N).
 
 ## C# Implementation
-```
+```csharp
 
 using System;
 
@@ -54,7 +55,7 @@ public class Solution {
 
 ```
 ## C++ Implementation
-```
+```cpp
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -80,7 +81,7 @@ int maxSumSubarray(vector<int>& arr, int k) {
 ```
 
 ## Java Implementation
-```
+```java
 class Solution {
     public int maxSumSubarray(int[] arr, int k) {
         int windowSum = 0, maxSum = Integer.MIN_VALUE;
@@ -103,7 +104,7 @@ class Solution {
 ```
 
 ## Python Implementation
-```
+```python
 def max_sum_subarray(arr, k):
     window_sum = sum(arr[:k])
     max_sum = window_sum
@@ -121,7 +122,7 @@ Time Complexity: O(N) — we traverse the array once, each element is added and 
 
 Space Complexity: O(1) — we use only a few extra variables regardless of array size.
 
-##Conclusion
+## Conclusion
 This example demonstrates how the Sliding Window pattern turns an O(N*K) brute-force approach into an O(N) efficient solution by reusing computations.
 It shows that identifying a "window" in problems involving contiguous elements can save a lot of processing time.
 Mastering this pattern will help in solving a wide range of problems like maximum/minimum sums, averages, or substring problems in strings.
