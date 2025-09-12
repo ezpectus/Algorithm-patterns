@@ -124,7 +124,6 @@ while (queue.Count > 0) {
     }
 }
 ```
-##  Common BFS Problems
 
 ## Common BFS Problems
 
