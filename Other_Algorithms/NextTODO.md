@@ -50,3 +50,10 @@ range XOR/count/sum
 оптимизация без сегментных деревьев
 
 ---
+Алгоритмы — Djikstra, Wilson
+Djikstra — свернём как модуль: граф, приоритетка, O(E log V), с кейсами
+---
+Wilson — если ты про Wilson’s algorithm for uniform spanning trees — это вообще имба, мало кто юзает, но она архитектурно чистая
+
+
+---
