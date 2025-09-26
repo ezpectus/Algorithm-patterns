@@ -1,19 +1,4 @@
-🚀 В работе
-2. Aho-Corasick Automaton — Multi-pattern Matching
 
-Построение Trie + failure links
-
-Ищет множество паттернов одновременно за O(n)
-
-📌 Применения:
-
-фильтрация по словарю
-
-антиспам
-
-биоинформатика (геномы, ДНК)
-
-intrusion detection
 ---
 
 3. Suffix Automaton (SAM) — Compressed Suffix Engine
@@ -62,7 +47,7 @@ range XOR / count / sum
 
 Dijkstra — модуль: граф + приоритетная очередь, O(E log V)
 
-Wilson’s Algorithm — генерация uniform spanning trees (чистый, редкий, но мощный).
+
 
 Suffix Array + Kasai — must-have (LCP queries, substring search).
 
