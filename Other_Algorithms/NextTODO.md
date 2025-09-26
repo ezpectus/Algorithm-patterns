@@ -57,3 +57,14 @@ Wilson — если ты про Wilson’s algorithm for uniform spanning trees 
 
 
 ---
+
+
+Suffix Array + Kasai — must-have (ты уже близко к нему подошёл).
+
+Suffix Automaton — чутка сложнее, но даёт много мощных применений.
+
+Rolling Hash (полиномные хэши) — часто в задачах на строки.
+
+FFT (быстрое преобразование Фурье) — топ для умножения строк/чисел.
+
+---
