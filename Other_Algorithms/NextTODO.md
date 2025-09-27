@@ -1,18 +1,4 @@
 
----
-
-
----
-
-
-
-
----
-
-📦 Дополнительно
-
-Dijkstra — модуль: граф + приоритетная очередь, O(E log V)
-
 
 
 Suffix Array + Kasai — must-have (LCP queries, substring search).
