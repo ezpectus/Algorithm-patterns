@@ -51,7 +51,7 @@ Dijkstra — модуль: граф + приоритетная очередь, O
 
 Suffix Array + Kasai — must-have (LCP queries, substring search).
 
-Rolling Hash (полиномные) — ускорение задач на строки.
+
 
 FFT (Fast Fourier Transform) — умножение строк/чисел за O(n log n).
 ---
