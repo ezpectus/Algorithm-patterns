@@ -4,7 +4,6 @@ Link‑Cut Tree / Euler Tour Tree → динамические деревья.
 
 Centroid Decomposition → разрез дерева для path‑queries.
 
-Tarjan’s Algorithm → мосты, точки сочленения.
 
 Dinic / Push‑Relabel → max flow.
 
