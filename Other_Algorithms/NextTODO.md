@@ -6,10 +6,6 @@ Dinic / Push‑Relabel → max flow.
 
 Hopcroft–Karp → bipartite matching.
 
-Suffix Automaton + DP → количество различных подстрок, k‑th substring.
-
-
-
 Binary Lifting → LCA и jump‑queries.
 
 FFT / NTT → быстрые свёртки.
