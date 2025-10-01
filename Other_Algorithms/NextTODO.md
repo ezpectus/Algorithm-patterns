@@ -17,7 +17,7 @@ Sparse Table → RMQ/LCA без апдейтов.
 
 Binary Lifting → LCA и jump‑queries.
 
-Convex Hull Trick / Li Chao Tree → оптимизация DP.
+
 
 FFT / NTT → быстрые свёртки.
 ---
