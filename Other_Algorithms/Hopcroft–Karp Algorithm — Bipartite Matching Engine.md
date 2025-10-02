@@ -2,7 +2,10 @@
 
 ## 📜 Origin & Motivation
 
-When solving **maximum bipartite matching**, naive DFS-based approaches run in  
+The **Hopcroft–Karp algorithm** was introduced in **1973** by **John Hopcroft** and **Richard Karp**, and independently by **Alexander Karzanov**.  
+It was designed to solve the **maximum-cardinality matching problem** in bipartite graphs more efficiently than previous approaches like Ford–Fulkerson and the Hungarian algorithm.
+
+When solving **maximum bipartite matching**, naive DFS-based methods run in  
 **O(n · m)** — too slow for large graphs.  
 Hopcroft–Karp is a **batch-based offline engine** that improves performance by alternating between:
 
@@ -10,6 +13,7 @@ Hopcroft–Karp is a **batch-based offline engine** that improves performance by
 - **DFS phase**: finds multiple disjoint augmenting paths in parallel  
 
 This leads to a total complexity of **O(√n · m)** — optimal for unweighted bipartite graphs.
+
 
 ---
 
