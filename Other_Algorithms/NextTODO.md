@@ -4,8 +4,6 @@ Centroid Decomposition → разрез дерева для path‑queries.
 
 Dinic / Push‑Relabel → max flow.
 
-Hopcroft–Karp → bipartite matching.
-
 Binary Lifting → LCA и jump‑queries.
 
 FFT / NTT → быстрые свёртки.
