@@ -2,7 +2,7 @@
 
 
 
-Dinic / Push‑Relabel → max flow.
+
 
 FFT / NTT → быстрые свёртки.
 ---
