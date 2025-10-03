@@ -1,6 +1,6 @@
 
 
-Centroid Decomposition → разрез дерева для path‑queries.
+
 
 Dinic / Push‑Relabel → max flow.
 
