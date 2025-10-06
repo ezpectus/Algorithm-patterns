@@ -4,7 +4,7 @@
 
 
 
-- FFT / NTT → быстрые свёртки.
+
 - Persistent Segment Tree (для задач на версии/историю).
 - DSU on Tree (техника для запросов по поддеревьям).
 - 2	Edmonds–Karp Algorithm	Max flow via BFS (O(V·E²))
