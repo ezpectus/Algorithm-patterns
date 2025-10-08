@@ -10,8 +10,6 @@
 - 2	Edmonds–Karp Algorithm	Max flow via BFS (O(V·E²))
 - 3	Stoer–Wagner Algorithm	Global min-cut in undirected graphs
 - 4	Gomory–Hu Tree	All-pairs min-cut in undirected graphs
-- 6	Kolmogorov’s Maxflow (Boykov–Kolmogorov)	Image segmentation, graph cuts
-- 7	Micali–Vazirani Algorithm	General graph matching in O(√E)
 - 8	Kuhn–Munkres (Hungarian) Algorithm	Assignment problem (min-cost bipartite matching)
 - 9	Edmonds’ Blossom Algorithm	Maximum matching in general graphs
 - 10	Johnson’s Algorithm	All-pairs shortest paths with negative weights
