@@ -15,6 +15,6 @@
 - 11	Floyd–Warshall with Path Reconstruction	Dense graph APSP with traceability
 - Rerooting DP — Global Tree Aggregator
 
-
+- new ideas -> https://www.geeksforgeeks.org/blogs/how-to-prepare-for-acm-icpc/
 
 ---
