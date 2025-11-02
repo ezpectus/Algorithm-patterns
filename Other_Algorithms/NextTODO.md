@@ -3,8 +3,8 @@
 
 
 
-
-
+- Eertree сверху — cherry on top 🍒 (редчайшая структура).
+- IDA*
 - A* algo
 - DSU on Tree (техника для запросов по поддеревьям).
 - 3	Stoer–Wagner Algorithm	Global min-cut in undirected graphs
