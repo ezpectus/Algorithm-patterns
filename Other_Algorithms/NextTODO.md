@@ -3,6 +3,13 @@
 
 
 
+
+- Treap / AVL / Splay
+- Union-Find (DSU with Rollback)
+- Min-cost Flow
+- Hungarian Algorithm
+- 2-SAT / SCC condensation
+- Segment Tree Beats
 - Eertree сверху — cherry on top 🍒 (редчайшая структура).
 - IDA*
 - A* algo
