@@ -7,7 +7,6 @@
 - Treap / AVL / Splay
 - Union-Find (DSU with Rollback)
 - Min-cost Flow
-- Hungarian Algorithm
 - 2-SAT / SCC condensation
 - Segment Tree Beats
 - DSU on Tree (техника для запросов по поддеревьям).
