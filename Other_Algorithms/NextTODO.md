@@ -8,7 +8,6 @@
 - Union-Find (DSU with Rollback)
 - Min-cost Flow
 - 2-SAT / SCC condensation
-- Segment Tree Beats
 - 4	Gomory–Hu Tree	All-pairs min-cut in undirected graphs
 - 8	Kuhn–Munkres (Hungarian) Algorithm	Assignment problem (min-cost bipartite matching)
 - 10	Johnson’s Algorithm	All-pairs shortest paths with negative weights
