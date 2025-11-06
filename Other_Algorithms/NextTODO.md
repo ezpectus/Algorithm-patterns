@@ -10,9 +10,7 @@
 - Hungarian Algorithm
 - 2-SAT / SCC condensation
 - Segment Tree Beats
-- Eertree сверху — cherry on top 🍒 (редчайшая структура).
 - IDA*
-- A* algo
 - DSU on Tree (техника для запросов по поддеревьям).
 - 3	Stoer–Wagner Algorithm	Global min-cut in undirected graphs
 - 4	Gomory–Hu Tree	All-pairs min-cut in undirected graphs
