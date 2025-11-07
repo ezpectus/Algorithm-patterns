@@ -3,7 +3,8 @@
 
 
 
-
+- HeapSortO(n log n), in-place"Пирамида. Гарантия. Не рекурсия."
+- TimSort
 - Treap / AVL / Splay
 - Union-Find (DSU with Rollback)
 - Min-cost Flow
