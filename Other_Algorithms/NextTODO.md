@@ -2,12 +2,7 @@
 
 
 
-
-- HeapSortO(n log n), in-place"Пирамида. Гарантия. Не рекурсия."
-- TimSort
-- Treap / AVL / Splay
-- Union-Find (DSU with Rollback)
-- Min-cost Flow
+- Red‑Black Tree
 - 2-SAT / SCC condensation
 - 4	Gomory–Hu Tree	All-pairs min-cut in undirected graphs
 - 8	Kuhn–Munkres (Hungarian) Algorithm	Assignment problem (min-cost bipartite matching)
