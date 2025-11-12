@@ -1,9 +1,9 @@
 
 
 
-- floyd wallshal
-- Red‑Black Tree
-- 2-SAT / SCC condensation
+
+
+
 - 4	Gomory–Hu Tree	All-pairs min-cut in undirected graphs
 - 8	Kuhn–Munkres (Hungarian) Algorithm	Assignment problem (min-cost bipartite matching)
 - 10	Johnson’s Algorithm	All-pairs shortest paths with negative weights
