@@ -1,14 +1,4 @@
 
-
-
-
-
-
-
-
-- 10	Johnson’s Algorithm	All-pairs shortest paths with negative weights
-- 11	Floyd–Warshall with Path Reconstruction	Dense graph APSP with traceability
-
 - new ideas -> https://www.geeksforgeeks.org/blogs/how-to-prepare-for-acm-icpc/
 
 ---
