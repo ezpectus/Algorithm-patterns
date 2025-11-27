@@ -1,13 +1,8 @@
 
 - new ideas -> https://www.geeksforgeeks.org/blogs/how-to-prepare-for-acm-icpc/
 
-## 32 in total
+## 30 in total
 
-## 🧩 Graph & Flow / Connectivity Layer (Advanced)
-- Chu–Liu Edmonds’ Algorithm — Directed Minimum Spanning Tree
-- Dominator Tree (Lengauer–Tarjan) — контроль потока, CFG/компиляторы
-
----
 
 ## ⚙️ Optimization & Math Programming
 - Simplex Algorithm — базовый метод линейного программирования
