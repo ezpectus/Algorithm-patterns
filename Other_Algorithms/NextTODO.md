@@ -1,16 +1,7 @@
 
 - new ideas -> https://www.geeksforgeeks.org/blogs/how-to-prepare-for-acm-icpc/
 
-## 30 in total
-
-
-## ⚙️ Optimization & Math Programming
-- Simplex Algorithm — базовый метод линейного программирования
-- Ellipsoid Method — теоретический метод оптимизации
-- Interior-Point Method — практичный метод LP
-- Gale–Shapley Stable Matching — алгоритм стабильных браков
-
----
+## 28 in total
 
 ## 🧱 Geometry / Spatial Structures
 - KD-Tree — поиск ближайших точек
