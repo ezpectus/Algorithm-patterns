@@ -5,7 +5,7 @@
 
 ## 🧱 Geometry / Spatial Structures
 
-- Sweep Line Algorithm — пересечения, closest pair
+
 - Voronoi Diagram — топология областей ближайших точек
 - Delaunay Triangulation — дуальная структура к Вороному
 - Rotating Calipers — диаметр, max distance, convex hull ops
