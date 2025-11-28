@@ -4,8 +4,7 @@
 ## 28 in total
 
 ## 🧱 Geometry / Spatial Structures
-- KD-Tree — поиск ближайших точек
-- Range Tree — многомерные range queries
+
 - Sweep Line Algorithm — пересечения, closest pair
 - Voronoi Diagram — топология областей ближайших точек
 - Delaunay Triangulation — дуальная структура к Вороному
