@@ -3,12 +3,6 @@
 
 ## 28 in total
 
-## 🧱 Geometry / Spatial Structures
-
-
-
-- Rotating Calipers — диаметр, max distance, convex hull ops
-
 ---
 
 ## 🔍 Advanced String & Text Processing
