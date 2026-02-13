@@ -6,7 +6,6 @@
 ---
 
 ## 🔍 Advanced String & Text Processing
-- Suffix Tree (Ukkonen Algorithm) — построение O(n)
 - Burrows–Wheeler Transform — перестановка для компрессии
 - FM-Index — индекс для substring queries поверх BWT
 
