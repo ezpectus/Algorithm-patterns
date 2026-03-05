@@ -5,10 +5,6 @@
 
 ---
 
-## 🔍 Advanced String & Text Processing
-- FM-Index — индекс для substring queries поверх BWT
-
----
 
 ## 🔒 Data Structures (Deep Tier)
 - Wavelet Tree — частоты, k-th order statistics
