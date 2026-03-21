@@ -8,8 +8,7 @@
 
 
 ## 🧠 Bonus — Инженерная энциклопедия
-- Disjoint Set with Parity — DSU с чётностью
-- Weighted Union — DSU-вариация с весами
+
 - DP Optimization Techniques — Divide-&-Conquer, Knuth, расширение Convex Hull Trick
 - Offline Algorithms Overview — DSU-on-Tree, Mo, Sweep Line, Persistent DS
 - Approximation Algorithms — LP-rounding, жадные доказательства
