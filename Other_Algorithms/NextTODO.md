@@ -28,8 +28,6 @@
 
 ## DP:
 
-- Bitmask DP (TSP, set cover DP)
-- Digit DP
 - Profile DP (broken profile, plug DP)
 - SOS DP (Sum over Subsets)
 - Convex Hull Trick standalone (есть внутри DP Optimization — но отдельного файла нет)
