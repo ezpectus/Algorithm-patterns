@@ -5,14 +5,6 @@
 
 ---
 
-
-## 🔒 Data Structures (Deep Tier)
-- Wavelet Tree — частоты, k-th order statistics
-- Segment Tree on Bits — битовые сегментные деревья
-- Dynamic Trees (Top Trees) — расширение Link-Cut
-
----
-
 ## 🧩 Theoretical / Constraint / Logic
 - SAT — базовый булев SAT
 - DPLL — классический SAT-алгоритм
