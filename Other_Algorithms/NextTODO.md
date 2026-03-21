@@ -5,14 +5,7 @@
 
 ---
 
-## 🧩 Theoretical / Constraint / Logic
 
-- SMT Solver (Z3 overview) — логика ограничений
-- Bellman–Ford with Negative Cycle Detection — кратчайшие пути + отрицательные циклы
-- Minimax — базовый алгоритм игр
-- Alpha–Beta Pruning — оптимизация поиска в играх
-
----
 
 ## 🧠 Bonus — Инженерная энциклопедия
 - Disjoint Set with Parity — DSU с чётностью
