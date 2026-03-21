@@ -1,12 +1,6 @@
 
 ## new ideas -> https://www.geeksforgeeks.org/blogs/how-to-prepare-for-acm-icpc/
 
-## Строки / текст:
-
-- Lyndon Factorization + Duval Algorithm
-- Eertree extensions (palindromic factorization)
-- DAWG (Directed Acyclic Word Graph)
-- Bitap Algorithm (approximate string matching)
 
 ## Числа / математика:
 
