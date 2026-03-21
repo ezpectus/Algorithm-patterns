@@ -9,8 +9,7 @@
 
 ## 🧠 Bonus — Инженерная энциклопедия
 
-- DP Optimization Techniques — Divide-&-Conquer, Knuth, расширение Convex Hull Trick
-- Offline Algorithms Overview — DSU-on-Tree, Mo, Sweep Line, Persistent DS
+
 - Approximation Algorithms — LP-rounding, жадные доказательства
 - Randomized Algorithm (Monte Carlo) — вероятностный с шансом ошибки
 - Randomized Algorithm (Las Vegas) — вероятностный с гарантией корректности
