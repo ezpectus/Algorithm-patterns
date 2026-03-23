@@ -4,9 +4,6 @@
 
 ## Числа / математика:
 
-- Extended Euclidean Algorithm + Bézout coefficients
-- Chinese Remainder Theorem (CRT) — алгоритм и приложения
-- Baby-step Giant-step (BSGS) — дискретный логарифм
 - Pollard's Rho — факторизация
 - Miller-Rabin standalone (есть внутри Monte Carlo, но отдельного нет)
 - Fast Walsh-Hadamard Transform (FWHT) — XOR/AND/OR convolution
