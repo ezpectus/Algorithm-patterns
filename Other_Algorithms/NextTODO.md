@@ -4,8 +4,6 @@
 
 ## Числа / математика:
 
-
-- Miller-Rabin standalone (есть внутри Monte Carlo, но отдельного нет)
 - Fast Walsh-Hadamard Transform (FWHT) — XOR/AND/OR convolution
 - Linear Recurrence + Berlekamp–Massey
 - Gaussian Elimination over GF(2) и над полем
