@@ -4,7 +4,7 @@
 
 ## Числа / математика:
 
-- Fast Walsh-Hadamard Transform (FWHT) — XOR/AND/OR convolution
+
 - Linear Recurrence + Berlekamp–Massey
 - Gaussian Elimination over GF(2) и над полем
 - Möbius Function + Sieve (аналитическая теория чисел)
