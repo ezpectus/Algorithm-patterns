@@ -4,7 +4,7 @@
 
 ## Числа / математика:
 
-- Pollard's Rho — факторизация
+
 - Miller-Rabin standalone (есть внутри Monte Carlo, но отдельного нет)
 - Fast Walsh-Hadamard Transform (FWHT) — XOR/AND/OR convolution
 - Linear Recurrence + Berlekamp–Massey
