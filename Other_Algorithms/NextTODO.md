@@ -4,8 +4,6 @@
 
 ## Числа / математика:
 
-
-- Linear Recurrence + Berlekamp–Massey
 - Gaussian Elimination over GF(2) и над полем
 - Möbius Function + Sieve (аналитическая теория чисел)
 - Euler's Totient + Multiplicative Functions
