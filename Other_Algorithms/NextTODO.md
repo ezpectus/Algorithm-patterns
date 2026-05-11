@@ -2,10 +2,6 @@
 ## new ideas -> https://www.geeksforgeeks.org/blogs/how-to-prepare-for-acm-icpc/
 
 
-## Числа / математика:
-
-- Euler's Totient + Multiplicative Functions
-
 ## Графы:
 
 - Strongly Connected Components сравнение (Tarjan есть, Kosaraju отдельно нет)
