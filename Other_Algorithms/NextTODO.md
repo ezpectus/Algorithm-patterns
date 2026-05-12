@@ -97,7 +97,7 @@ Fast Power (binary exponentiation)
 Pascal's Triangle
 
 Graph basics
-
+miller rabin 
 BFS / DFS
 Flood Fill
 Topological Sort
