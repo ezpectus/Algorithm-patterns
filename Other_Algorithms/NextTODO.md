@@ -4,7 +4,6 @@
 
 ## Графы:
 
-- Strongly Connected Components сравнение (Tarjan есть, Kosaraju отдельно нет)
 - Bridges and Articulation Points (есть ли? не вижу явно)
 - Biconnected Components
 - Euler Path / Euler Circuit
