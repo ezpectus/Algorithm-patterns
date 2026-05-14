@@ -4,7 +4,6 @@
 
 ## Графы:
 
-- Bridges and Articulation Points (есть ли? не вижу явно)
 - Biconnected Components
 - Euler Path / Euler Circuit
 - Hamiltonian Path (backtracking + DP bitmask)
