@@ -3,6 +3,8 @@
 
 
 ## Графы:
+- Хешування (колізії, Bloom filter).
+- Динамічне програмування (класика: рюкзак, НВП, відстань Левенштейна).
 - Embedding-индексации
 - Biconnected Components
 - Euler Path / Euler Circuit
