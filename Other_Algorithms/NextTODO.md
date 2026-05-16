@@ -3,8 +3,6 @@
 
 
 ## Графы:
-- Embedding-индексации
-- Biconnected Components
 - Euler Path / Euler Circuit
 - Hamiltonian Path (backtracking + DP bitmask)
 - Virtual Tree (auxiliary tree)
