@@ -3,8 +3,6 @@
 
 
 ## Графы:
-- Euler Path / Euler Circuit
-- Hamiltonian Path (backtracking + DP bitmask)
 - Virtual Tree (auxiliary tree)
 - Functional Graph — cycle detection, kth ancestor
 - Tree Isomorphism
