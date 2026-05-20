@@ -3,8 +3,6 @@
 
 
 ## Графы:
-- Virtual Tree (auxiliary tree)
-- Functional Graph — cycle detection, kth ancestor
 - Tree Isomorphism
 
 ## DP:
