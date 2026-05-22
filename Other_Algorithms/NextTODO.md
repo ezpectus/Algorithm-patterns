@@ -4,7 +4,6 @@
 
 ## DP:
 
-- SOS DP (Sum over Subsets)
 - Convex Hull Trick standalone (есть внутри DP Optimization — но отдельного файла нет)
 
 ## Структуры данных:
