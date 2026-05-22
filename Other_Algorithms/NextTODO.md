@@ -2,9 +2,6 @@
 ## new ideas -> https://www.geeksforgeeks.org/blogs/how-to-prepare-for-acm-icpc/
 
 
-## Графы:
-- Tree Isomorphism
-
 ## DP:
 
 - SOS DP (Sum over Subsets)
