@@ -2,10 +2,6 @@
 ## new ideas -> https://www.geeksforgeeks.org/blogs/how-to-prepare-for-acm-icpc/
 
 
-## DP:
-
-- Convex Hull Trick standalone (есть внутри DP Optimization — но отдельного файла нет)
-
 ## Структуры данных:
 
 - Van Emde Boas Tree
