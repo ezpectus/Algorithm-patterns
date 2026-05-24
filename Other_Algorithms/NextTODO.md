@@ -4,7 +4,6 @@
 
 ## Структуры данных:
 
-- Van Emde Boas Tree
 - Kinetic Heaps / Kinetic Data Structures
 - Sqrt Decomposition (Mo есть, но общий sqrt-блок отдельно нет)
 - Merge Sort Tree
