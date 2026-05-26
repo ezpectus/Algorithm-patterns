@@ -4,7 +4,6 @@
 
 ## Структуры данных:
 
-- Sqrt Decomposition (Mo есть, но общий sqrt-блок отдельно нет)
 - Merge Sort Tree
 - Fractional Cascading
 - B-Tree / B+ Tree
