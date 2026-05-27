@@ -4,7 +4,7 @@
 
 ## Структуры данных:
 
-- Fractional Cascading
+
 - B-Tree / B+ Tree
 - Finger Trees
 - Cartesian Tree
