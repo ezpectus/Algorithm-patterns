@@ -4,7 +4,6 @@
 
 ## Структуры данных:
 
-- Merge Sort Tree
 - Fractional Cascading
 - B-Tree / B+ Tree
 - Finger Trees
