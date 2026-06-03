@@ -2,10 +2,6 @@
 ## new ideas -> https://www.geeksforgeeks.org/blogs/how-to-prepare-for-acm-icpc/
 
 
-## Структуры данных:
-
-- Cartesian Tree
-- 2D Segment Tree / 2D Fenwick Tree
 
 ## Геометрия:
 
