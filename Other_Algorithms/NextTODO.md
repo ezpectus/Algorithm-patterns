@@ -4,9 +4,6 @@
 
 ## Структуры данных:
 
-
-- B-Tree / B+ Tree
-- Finger Trees
 - Cartesian Tree
 - 2D Segment Tree / 2D Fenwick Tree
 
