@@ -5,8 +5,6 @@
 
 ## Геометрия:
 
-- Line-Segment Intersection (Shamos-Hoey, Bentley-Ottmann)
-- Point in Polygon
 - Minkowski Sum
 - Half-plane Intersection
 - Closest Pair of Points (D&C)
