@@ -5,8 +5,6 @@
 
 ## Геометрия:
 
-- Minkowski Sum
-- Half-plane Intersection
 - Closest Pair of Points (D&C)
 - Pick's Theorem + Lattice geometry
 
