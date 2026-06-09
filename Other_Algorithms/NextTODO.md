@@ -5,7 +5,6 @@
 
 ## Геометрия:
 
-- Closest Pair of Points (D&C)
 - Pick's Theorem + Lattice geometry
 
 ## Прочее / системное:
