@@ -3,9 +3,7 @@
 
 
 
-## Геометрия:
 
-- Pick's Theorem + Lattice geometry
 
 ## Прочее / системное:
 
