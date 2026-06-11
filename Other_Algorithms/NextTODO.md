@@ -7,7 +7,6 @@
 
 ## Прочее / системное:
 
-- Cache-Oblivious Algorithms (matrix multiply, B-tree)
 - External Memory Algorithms
 - Parallel algorithms overview (PRAM model)
 - Streaming Algorithms — Count-Min Sketch, HyperLogLog, Bloom Filter
