@@ -7,7 +7,6 @@
 
 ## Прочее / системное:
 
-- Parallel algorithms overview (PRAM model)
 - Streaming Algorithms — Count-Min Sketch, HyperLogLog, Bloom Filter
 - Online Algorithms — competitive analysis, ski rental, paging
 - Amortized Analysis — aggregate, accounting, potential methods
