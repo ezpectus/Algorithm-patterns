@@ -1,12 +1,7 @@
 
 ## new ideas -> https://www.geeksforgeeks.org/blogs/how-to-prepare-for-acm-icpc/
 
-
-
-
-
 ## Прочее / системное:
-- Amortized Analysis — aggregate, accounting, potential methods
 - Network Simplex (для min-cost flow)
 - Matroid Intersection
 - Submodular Function Optimization
