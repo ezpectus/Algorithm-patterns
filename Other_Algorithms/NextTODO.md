@@ -2,7 +2,6 @@
 ## new ideas -> https://www.geeksforgeeks.org/blogs/how-to-prepare-for-acm-icpc/
 
 ## Прочее / системное:
-- Network Simplex (для min-cost flow)
 - Matroid Intersection
 - Submodular Function Optimization
   
