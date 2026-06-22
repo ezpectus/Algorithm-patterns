@@ -2,9 +2,7 @@
 ## new ideas -> https://www.geeksforgeeks.org/blogs/how-to-prepare-for-acm-icpc/
 
 ## Прочее / системное:
-- Matroid Intersection
-- Submodular Function Optimization
-  
+
 ---
 ```
 Строки
