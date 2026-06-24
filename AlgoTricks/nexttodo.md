@@ -1,41 +1,18 @@
-
-LCS — Longest Common Subsequence
-LCP — Longest Common Prefix
-LPS — Longest Palindromic Subsequence
-LRS — Longest Repeating Subsequence
-Edit Distance (Levenshtein)
-Longest Common Substring
----
-Массивы / Subsequences
-LIS — Longest Increasing Subsequence
-LDS — Longest Decreasing Subsequence
-LBS — Longest Bitonic Subsequence
-Maximum Subarray (Kadane's)
-Maximum Product Subarray
-Two Pointer classics
-Dutch National Flag
-Trapping Rain Water
-Merge Two Sorted Arrays
----
-Sorting based
-Merge Sort (count inversions)
-Quick Select (kth element)
-Counting Sort / Radix Sort
-Greedy classics
-Activity Selection
-Fractional Knapsack
-Jump Game
-Gas Station
----
-Math / Number
-GCD / LCM (Euclidean)
-Sieve of Eratosthenes
-Fast Power (binary exponentiation)
-Pascal's Triangle
----
-Graph basics
-miller rabin 
-BFS / DFS
-Flood Fill
-Topological Sort
-Cycle Detection 
+Two Pointers
+Sliding Window
+Prefix Sum
+Monotonic Stack
+Monotonic Queue
+Frequency Map (Counter)
+Binary Search on Answer
+Fast & Slow Pointers (Floyd's)
+Bit Manipulation tricks
+Kadane's (DP trick для subarray)
+Dutch National Flag (3-way partition)
+Trapping Rain Water (two pointer / stack trick)
+Jump Game (greedy reachability trick)
+Gas Station (circular greedy trick)
+Pascal's Triangle (combinatorics trick)
+Activity Selection (interval greedy)
+Fractional Knapsack (ratio greedy)
+LPS / LRS (DP tricks на строках)
